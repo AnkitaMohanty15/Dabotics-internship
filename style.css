@@ -1,0 +1,81 @@
+/* Reset some default styles and apply some basic styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+/* style.css */
+/* style.css */
+index.html {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+about.html {
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+portfolio.html {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+contact.html {
+    background-color: purple;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 40px 0;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
